@@ -586,7 +586,7 @@ text-align: center;
   .nav .logo img{
     width: 100px;
   }
-  .logo img{
+  .offcanvas .logo img{
     width: 100px;
   }
   .products h3 , .blogs h3{
